@@ -1,0 +1,5 @@
+nimcache
+*.exe
+*.ilk
+*.lib
+*.pdb
